@@ -1,3 +1,3 @@
 # activity
 
-Exercícios realizados com Python
+Exercícios realizados com Python e PostgreSQL
